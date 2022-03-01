@@ -14,7 +14,7 @@ def limit_handle(cursor):
             time.sleep(2)
 
 
-#Keys_data input (from twitter API)
+#Keys_data input (from twitter API). Insert your keys into the respective variables.
 consumer_key = 'consumer_key'
 consumer_secret = 'consumer_secret'
 access_token = 'acess_token'
